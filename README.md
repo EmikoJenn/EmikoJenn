@@ -1,16 +1,15 @@
-### Hi there 👋
-
 ## Who am I?
 
 I'm Jennifer Nevarez and I'm a self taught programmer that has over 4 years of experience as a Full-Stack Web developer and worked with agile teams, both small and big teams.
 I'm shy and find it hard to explain myself when I talk but I love helping others and shipping the best quality in the code and solutions I make, I have experience with code and design and I'm always willing to learn and I do so whenever I find free time in my schedule, I have interest in Machine Learning, Low level programing languages such as C and Rust, also Digital Arts as well as UI design.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmikoJenn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jennifer-soreth-nevarez-contreras-59bab71b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/EmikoJenn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg' alt='platzi' height='40'>](https://platzi.com/p/EmikoJenn/) 
+
 <!--
 **EmikoJenn/EmikoJenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
