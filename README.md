@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Who am I?
+
+I'm EmikoJenn and I'm a self taught programmer that has over 4 years of experience as a Full-Stack Web developer and worked with agile teams, both small and big teams.
+I'm shy and find it hard to explain myself when I talk but I love helping others and shipping the best quality in the code and solutions I make, I have experience with code and design and I'm always willing to learn and I do so whenever I find free time in my schedule, I have interest in Machine Learning, Low level programing languages such as C and Rust, also Digital Arts as well as UI design.
+
 <!--
 **EmikoJenn/EmikoJenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
